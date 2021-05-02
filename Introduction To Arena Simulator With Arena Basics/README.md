@@ -1,6 +1,7 @@
-Experiment name: Introduction To Arena Simulator With Arena Basics 
+# Experiment name: Introduction To Arena Simulator With Arena Basics 
 
 Introduction: The Field is easy to use, effective modeling and simulation program apparatus that permits the client to build a simulation demonstrate and run tests on the demonstrate. The computer program creates a few reports as a result of a recreation run. 
+
 Three fundamental districts can be recognized within the main Arena window - 
 1. The Project Bar 
 2. The Model window flowchart view 
