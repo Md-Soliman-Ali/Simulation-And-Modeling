@@ -1,0 +1,52 @@
+
+                                      ARENA Simulation Results
+                                   Soliman Ali - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 7/23/2020
+Analyst: Soliman Ali                                                 Model revision date: 7/23/2020
+
+Replication ended at time      : 20.0 Hours (Friday, July 24, 2020, 09:43:05)
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .07530     (Insuf)    .05855     .09159        179    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        179    
+Entity 1.WaitTime                           .15191     (Insuf)    .00000     .75129        179    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        179    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        179    
+Entity 1.TotalTime                          .22720     (Insuf)    .05863     .82816        179    
+Booth.Queue.WaitingTime                     .08623     (Insuf)    .00000     .41692        179    
+Process.Queue.WaitingTime                   .06567     (Insuf)    .00000     .42362        179    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                2.0334     (Corr)     .00000     13.000     .00000    
+Resource 1.NumberBusy                       .67390     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .67390     (Insuf)    .00000     1.0000     .00000    
+Booth.Queue.NumberInQueue                   .77179     (Insuf)    .00000     6.0000     .00000    
+Process.Queue.NumberInQueue                 .58777     (Insuf)    .00000     7.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           179.00    
+Entity 1.NumberOut                          179.00    
+Resource 1.NumberSeized                     358.00    
+Resource 1.ScheduledUtilization             .67390    
+System.NumberOut                            179.00    
+
+
+Simulation run time: 2.77 minutes.
+Simulation run complete.
