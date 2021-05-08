@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                   Soliman Ali - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Simple Drilling Process                                     Run execution date : 6/25/2020
+Analyst: Soliman Ali                                                 Model revision date: 6/25/2020
+
+Replication ended at time      : 20.0 Minutes (Thursday, June 25, 2020, 11:55:29)
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Parts.VATime                                3.4056     (Insuf)    1.7641     4.5167          5    
+Parts.NVATime                               .00000     (Insuf)    .00000     .00000          5    
+Parts.WaitTime                              3.0340     (Insuf)    .00000     8.1598          5    
+Parts.TranTime                              .00000     (Insuf)    .00000     .00000          5    
+Parts.OtherTime                             .00000     (Insuf)    .00000     .00000          5    
+Parts.TotalTime                             6.4396     (Insuf)    2.8955     12.618          5    
+Drilling Process.Queue.WaitingTime          2.5283     (Insuf)    .00000     8.1598          6    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Parts.WIP                                   1.7059     (Insuf)    .00000     4.0000     2.0000    
+Drilling Machine.NumberBusy                 .91709     (Insuf)    .00000     1.0000     1.0000    
+Drilling Machine.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Drilling Machine.Utilization                .91709     (Insuf)    .00000     1.0000     1.0000    
+Drilling Process.Queue.NumberInQueue        .78890     (Insuf)    .00000     3.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Parts.NumberIn                              7.0000    
+Parts.NumberOut                             5.0000    
+Drilling Machine.NumberSeized               6.0000    
+Drilling Machine.ScheduledUtilization       .91709    
+System.NumberOut                            5.0000    
+
+
+Simulation run time: 0.05 minutes.
+Simulation run complete.
