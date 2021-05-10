@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                   Soliman Ali - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 7/ 2/2020
+Analyst: Soliman Ali                                                 Model revision date: 7/ 2/2020
+
+Replication ended at time      : 12.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Car.VATime                                  .02787     (Insuf)    .01669     .04842        235    
+Car.NVATime                                 .00000     (Insuf)    .00000     .00000        235    
+Car.WaitTime                                .01666     (Insuf)    .00000     .09664        235    
+Car.TranTime                                .00000     (Insuf)    .00000     .00000        235    
+Car.OtherTime                               .00000     (Insuf)    .00000     .00000        235    
+Car.TotalTime                               .04453     (Insuf)    .01681     .13900        235    
+Car Washing.Queue.WaitingTime               .01666     (Insuf)    .00000     .09664        235    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Car.WIP                                     .87206     .18842     .00000     5.0000     .00000    
+Resource 1.NumberBusy                       .54586     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .54586     (Insuf)    .00000     1.0000     .00000    
+Car Washing.Queue.NumberInQueue             .32620     (Insuf)    .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Car.NumberIn                                235.00    
+Car.NumberOut                               235.00    
+Resource 1.NumberSeized                     235.00    
+Resource 1.ScheduledUtilization             .54586    
+System.NumberOut                            235.00    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.
