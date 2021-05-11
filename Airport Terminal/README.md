@@ -1,4 +1,4 @@
-Experiment Name: AIRPORT TERMINAL CHECK-IN MODEL 
+# Experiment Name: AIRPORT TERMINAL CHECK-IN MODEL 
 
 Introduction: It is often the case that the time a passenger spends at the origin airport is longer than the flight duration due to the inefficient check-in process. According to this, airline service plays a significant role for customers or passengers in choosing an airline. Checking in does mean reporting to the desk and getting the boarding pass and registering or to weight bags and luggage. As at any moment, the passenger may be checking in for several different flights. The objects that flow through the system are the passengers, and in Arena, these objects are known as entities. By Arena, we construct this airport terminal check-in model.
 
