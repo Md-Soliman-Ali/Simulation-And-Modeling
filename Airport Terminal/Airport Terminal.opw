@@ -1,0 +1,7 @@
+[RESOURCES]
+Agents
+[VARIABLES]
+Forward to the Gate.NumberOut
+Passenger Arival.NumberOut
+Checkin Process.NumberOut
+Checkin Process.NumberIn

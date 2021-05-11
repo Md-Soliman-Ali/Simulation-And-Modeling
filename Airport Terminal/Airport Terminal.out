@@ -1,0 +1,61 @@
+SIMAN Run Controller.
+
+87.615735 Minutes>
+                                      ARENA Simulation Results
+                                    Mobassera - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/11/2020
+Analyst: Mobassera                                                   Model revision date: 8/11/2020
+
+Replication ended at time      : 87.615735 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 3.VATime                                 --         --         --         --          0
+Entity 3.NVATime                                --         --         --         --          0
+Entity 3.WaitTime                               --         --         --         --          0
+Entity 3.TranTime                               --         --         --         --          0
+Entity 3.OtherTime                              --         --         --         --          0
+Entity 3.TotalTime                              --         --         --         --          0
+Passenger.VATime                            7.3735     (Insuf)    3.7580     10.798         49    
+Passenger.NVATime                           .00000     (Insuf)    .00000     .00000         49    
+Passenger.WaitTime                          1.3654     (Insuf)    .00000     9.4718         49    
+Passenger.TranTime                          .00000     (Insuf)    .00000     .00000         49    
+Passenger.OtherTime                         .00000     (Insuf)    .00000     .00000         49    
+Passenger.TotalTime                         8.7390     (Insuf)    3.7580     19.337         49    
+Checkin Process.Queue.WaitingTime           1.2165     (Insuf)    .00000     9.4718         55    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 3.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Passenger.WIP                               5.3539     (Insuf)    .00000     13.000     10.000    
+Agents.NumberBusy                           4.5201     (Insuf)    .00000     6.0000     6.0000    
+Agents.NumberScheduled                      6.0000     (Insuf)    6.0000     6.0000     6.0000    
+Agents.Utilization                          .75336     (Insuf)    .00000     1.0000     1.0000    
+Checkin Process.Queue.NumberInQueue         .83382     (Insuf)    .00000     7.0000     4.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 3.NumberIn                           .00000    
+Entity 3.NumberOut                          .00000    
+Passenger.NumberIn                          59.000    
+Passenger.NumberOut                         49.000    
+Agents.NumberSeized                         55.000    
+Agents.ScheduledUtilization                 .75336    
+System.NumberOut                            49.000    
+
+
+Simulation run time: 0.50 minutes.
+Simulation run complete.
